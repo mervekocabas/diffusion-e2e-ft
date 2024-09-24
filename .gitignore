@@ -4,7 +4,7 @@ __pycache__/
 
 /data
 /output
-# /input
+/input
 
 experiments/depth/*
 experiments/normals/*
